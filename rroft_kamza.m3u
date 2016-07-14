@@ -9,3 +9,5 @@ http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8?wowzasessionid=16
 http://84.22.48.253:8080/artanews/test.m3u8
 #EXTINF:-1, KLAN KOSOVA TV
 http://84.22.48.253:8080/klanks/test.m3u8
+#EXTINF:-1, A1 SHQIPETARE
+http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
