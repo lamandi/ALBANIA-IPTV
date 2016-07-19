@@ -1,9 +1,7 @@
-#EXTINF:-1, ===KANALE KRYESORE===
 #EXTINF:-1,TVSh
 rtmp://rtshal.shqiptv.us/live/rtsh
 #EXTINF:-1,VIZION PLUS
 http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8?wowzasessionid=1645186428
-#EXTINF:-1, ===LAJME===
 #EXTINF:-1,REPORT TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #EXTINF:-1,ABC NEWS
@@ -12,7 +10,6 @@ http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 rtmp://109.236.81.91/hls/oranews
 #EXTINF:-1, NEWS 24
 rtmp://81.7.11.117/hls/news24
-#EXTINF:-1, ===KANALE KOSOVA===
 #EXTINF:-1, KLAN KOSOVA TV
 http://84.22.48.253:8080/klanks/test.m3u8
 #EXTINF:-1, A1 SHQIPETARE
