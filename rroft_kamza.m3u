@@ -5,6 +5,8 @@ rtmp://rtshal.shqiptv.us/live/rtsh
 http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8?wowzasessionid=1645186428
 #EXTINF:-1,REPORT TV
 http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
+#EXTINF:-1,TOP NEWS
+http://46.99.168.118:9981/stream/channelid/1836219482?ticket=0CCF33444D200E61EFF47B4F4CC1BEB6F7BB4758&profile=pass
 #EXTINF:-1,ABC NEWS
 http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1, ORA NEWS
