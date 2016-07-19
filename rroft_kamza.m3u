@@ -11,3 +11,5 @@ http://84.22.48.253:8080/artanews/test.m3u8
 http://84.22.48.253:8080/klanks/test.m3u8
 #EXTINF:-1, A1 SHQIPETARE
 http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
+#EXTINF:-1, ORA NEWS
+rtmp://109.236.81.91/hls/oranews
