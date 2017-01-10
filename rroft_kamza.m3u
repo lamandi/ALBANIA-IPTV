@@ -19,3 +19,5 @@ http://84.22.48.253:8080/klanks/test.m3u8
 http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #EXTINF:-1, ARTA TV
 http://84.22.48.253:8080/artanews/test.m3u8
+#EXTINF:-1, TEST
+192.168.2.4
