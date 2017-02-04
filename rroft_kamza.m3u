@@ -10,7 +10,7 @@ http://46.99.168.118:9981/stream/channelid/1836219482?ticket=0CCF33444D200E61EFF
 #EXTINF:-1,ABC NEWS
 http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 #EXTINF:-1, ORA NEWS
-rtmp://109.236.81.91/hls/oranews
+rtmp://109.236.81.91/hls/oranews?e=1486250390&st=JnOpAFaTN2mtVUFXt_dcNA
 #EXTINF:-1, NEWS 24
 rtmp://81.7.11.117/hls/news24
 #EXTINF:-1, KLAN KOSOVA TV
